@@ -26,7 +26,7 @@
 
 This repo provides the models to stratify Acute Myeloid Leukemia patients.
 
-The methods and result are published in [MedRxiv](https://www.medrxiv.org/content/10.1101/2024.01.08.24301018v1)
+The methods and result are published in [MedRxiv](https://www.medrxiv.org/content/10.1101/2024.01.08.24301018v1).
 
 DOI: 10.1101/2024.01.08.24301018v1
 
